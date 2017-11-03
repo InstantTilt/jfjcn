@@ -1,0 +1,141 @@
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\NumWords.exe.config
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\NumWords.exe
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\NumWords.pdb
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\obj\Debug\NumWords.csprojResolveAssemblyReference.cache
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\obj\Debug\NumWords.exe
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\obj\Debug\NumWords.pdb
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\Humanizer.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\af\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\ar\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\bg\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\bn-BD\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\cs\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\da\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\de\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\el\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\es\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\fa\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\fi-FI\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\fr\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\fr-BE\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\he\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\hr\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\hu\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\id\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\it\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\ja\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\lv\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\nb\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\nb-NO\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\nl\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\pl\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\pt\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\ro\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\ru\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\sk\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\sl\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\sr\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\sr-Latn\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\sv\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\tr\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\uk\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\vi\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\zh-CN\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\zh-Hans\Humanizer.resources.dll
+c:\users\okozlov\documents\visual studio 2015\Projects\NumWords\NumWords\bin\Debug\zh-Hant\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\NumWords.exe.config
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\obj\Debug\NumWords.exe
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\obj\Debug\NumWords.pdb
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\NumWords.exe
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\NumWords.pdb
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\Humanizer.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\af\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\ar\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\bg\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\cs\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\da\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\de\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\el\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\es\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\fa\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\fr\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\he\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\hr\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\hu\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\id\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\it\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\ja\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\lv\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\nb\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\nl\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\pl\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\pt\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\ro\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\ru\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\sk\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\sl\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\sr\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\sv\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\tr\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\uk\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\vi\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\bin\Debug\zh-Hant\Humanizer.resources.dll
+C:\Users\tcohen.TCEDGE\OneDrive\Documents\NumWords\NumWords\obj\Debug\NumWords.csprojResolveAssemblyReference.cache
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\NumWords.exe.config
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\obj\Debug\NumWords.exe
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\obj\Debug\NumWords.pdb
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\NumWords.exe
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\NumWords.pdb
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\Humanizer.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\af\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\ar\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\bg\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\cs\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\da\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\de\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\el\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\es\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\fa\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\fr\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\he\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\hr\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\hu\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\id\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\it\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\ja\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\lv\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\nb\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\nl\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\pl\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\pt\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\ro\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\ru\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\sk\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\sl\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\sr\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\sv\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\tr\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\uk\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\vi\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\bin\Debug\zh-Hant\Humanizer.resources.dll
+C:\Users\TCohen.KDMNB\OneDrive\Documents\NumWords\NumWords\obj\Debug\NumWords.csprojResolveAssemblyReference.cache
